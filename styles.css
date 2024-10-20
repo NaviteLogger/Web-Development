@@ -1,0 +1,10 @@
+.column {
+    flex: 1;
+    margin: 1%;
+}
+
+.four-texts,
+.three-texts {
+    display: flex;
+    justify-content: space-between;
+}
